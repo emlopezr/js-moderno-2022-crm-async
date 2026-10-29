@@ -14,4 +14,4 @@ Luego de instalarlo, se debe de poner el siguiente comando en la terminal de la 
 json-server --watch db.json --port 4000
 ```
 
-Finalmente, se puede abrir [index.html](https://github.com/lopezemmanuel/JavaScriptModerno2022_CRMAsyncAwait/blob/main/index.html) y probar el proyecto.
+Finalmente, se puede abrir [index.html](https://github.com/emlopezr/js-moderno-2022-crm-async/blob/main/index.html) y probar el proyecto.
